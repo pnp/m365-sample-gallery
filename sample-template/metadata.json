@@ -1,11 +1,29 @@
 {
     "$schema": "https://wherever-we-can-shot/sample.schema.json",
     "sample": {
-      "name": "unique-sample-naming-for-identifying",
+      "name": "pnp-sp-dev-spfx-web-parts-sample-folder-name",
       "version": "1.4.2.0",
       "title": "Action messaging extension with Just In Time installer",
       "source": "pnp",
       "short-description": "Sample of an Action messaging extension that shows a Just-In-Time installer to install the app into Teams/Personal/Group Chat, and how to post an adaptive card response directly into a conversation",
+      "technologies": [
+        {"id": "TEAMS",
+            "bot": "fejefp",
+            "bot": "fejefp"
+        },
+        {"id": "SHAREPOINT",
+            "spfx-version": "1.11",
+            "node-version": "fejefp"
+        },
+        {"id": "MICROSOFTGRAPH",
+            "GraphAPI": [
+                "file", "sites"
+            ],
+            "GraphToolkitControls": [
+                "agenda", "tasks"
+            ]
+        }
+      ],
       "thumbnails": [
         {
           "type": "image",
@@ -20,12 +38,12 @@
       ],
       "authors": [
         {
-          "gitHubAccount": "image",
+          "gitHubAccount": "accountname",
           "company": "Contoso",
           "twitter": "https://twitter.com/fuu"
         },
         {
-          "gitHubAccount": "image",
+          "gitHubAccount": "accountname",
           "company": "Contoso",
           "twitter": "https://twitter.com/fuu"
         }
