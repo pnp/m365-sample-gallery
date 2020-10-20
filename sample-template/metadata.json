@@ -25,9 +25,9 @@
           "twitter": "https://twitter.com/fuu"
         },
         {
-            "gitHubAccount": "image",
-            "company": "Contoso",
-            "twitter": "https://twitter.com/fuu"
+          "gitHubAccount": "image",
+          "company": "Contoso",
+          "twitter": "https://twitter.com/fuu"
         }
       ] 
   }
