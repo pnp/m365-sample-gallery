@@ -27,11 +27,13 @@
       "thumbnails": [
         {
           "type": "image",
+          "order": 100,
           "imageUrl": "https://fuufaafuu.png",
           "alt": "Alt text for the image"
         },
         {
           "type": "video",
+          "order": 101,
           "imageUrl": "https://youtube.com/embed/3120470",
           "alt": "Alt text for the video"
         }
