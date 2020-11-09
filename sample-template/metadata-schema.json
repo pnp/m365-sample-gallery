@@ -143,6 +143,9 @@
             {
               "type": "object",
               "properties": {
+                "displayName": {
+                  "type": "string"
+                },
                 "gitHubAccount": {
                   "type": "string"
                 },
@@ -154,9 +157,7 @@
                 }
               },
               "required": [
-                "gitHubAccount",
-                "company",
-                "twitter"
+                "gitHubAccount"
               ]
             }
           ]
