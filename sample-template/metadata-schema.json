@@ -26,9 +26,6 @@
     }
   },
   "properties": {
-    "$schema": {
-      "type": "string"
-    },
     "sample": {
       "type": "object",
       "properties": {
@@ -166,7 +163,6 @@
     }
   },
   "required": [
-    "$schema",
     "sample"
   ]
 }
