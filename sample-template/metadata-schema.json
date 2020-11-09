@@ -1,0 +1,211 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "sample": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "source": {
+          "type": "string"
+        },
+        "short-description": {
+          "type": "string"
+        },
+        "technologies": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "bot": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "id",
+                "bot"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "spfx-version": {
+                  "type": "string"
+                },
+                "node-version": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "id",
+                "spfx-version",
+                "node-version"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "GraphAPI": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "string"
+                    }
+                  ]
+                },
+                "GraphToolkitControls": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "string"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "id",
+                "GraphAPI",
+                "GraphToolkitControls"
+              ]
+            }
+          ]
+        },
+        "thumbnails": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "type": {
+                  "type": "string"
+                },
+                "order": {
+                  "type": "integer"
+                },
+                "imageUrl": {
+                  "type": "string"
+                },
+                "alt": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "type",
+                "order",
+                "imageUrl",
+                "alt"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "type": {
+                  "type": "string"
+                },
+                "order": {
+                  "type": "integer"
+                },
+                "imageUrl": {
+                  "type": "string"
+                },
+                "alt": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "type",
+                "order",
+                "imageUrl",
+                "alt"
+              ]
+            }
+          ]
+        },
+        "authors": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "gitHubAccount": {
+                  "type": "string"
+                },
+                "company": {
+                  "type": "string"
+                },
+                "twitter": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "gitHubAccount",
+                "company",
+                "twitter"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "gitHubAccount": {
+                  "type": "string"
+                },
+                "company": {
+                  "type": "string"
+                },
+                "twitter": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "gitHubAccount",
+                "company",
+                "twitter"
+              ]
+            }
+          ]
+        }
+      },
+      "required": [
+        "name",
+        "version",
+        "title",
+        "source",
+        "short-description",
+        "technologies",
+        "thumbnails",
+        "authors"
+      ]
+    }
+  },
+  "required": [
+    "$schema",
+    "sample"
+  ]
+}
