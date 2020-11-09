@@ -11,9 +11,6 @@
         "name": {
           "type": "string"
         },
-        "version": {
-          "type": "string"
-        },
         "title": {
           "type": "string"
         },
@@ -44,6 +41,9 @@
             {
               "type": "object",
               "properties": {
+                "$schema": {
+                  "type": "string"
+                },
                 "id": {
                   "type": "string"
                 },
@@ -55,6 +55,7 @@
                 }
               },
               "required": [
+                "$schema",
                 "id",
                 "spfx-version",
                 "node-version"
@@ -194,7 +195,6 @@
       },
       "required": [
         "name",
-        "version",
         "title",
         "source",
         "short-description",
