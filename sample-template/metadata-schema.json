@@ -23,6 +23,13 @@
           "type": "string"
         }
       }
+    },
+    "microsoftgraph": {
+      "properties": {
+        "id": {
+          "const": "MICROSOFTGRAPH"
+        }
+      }
     }
   },
   "properties": {
@@ -51,6 +58,9 @@
               },
               {
                 "$ref": "#/definitions/teams"
+              },
+              {
+                "$ref": "#/definitions/microsoftgraph"
               }
             ]
           }
