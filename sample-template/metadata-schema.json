@@ -87,7 +87,6 @@
               },
               "required": [
                 "type",
-                "order",
                 "imageUrl",
                 "alt"
               ]
@@ -103,7 +102,8 @@
                   "type": "integer"
                 },
                 "imageUrl": {
-                  "type": "string"
+                  "type": "string",
+                  "pattern": "^https://"
                 },
                 "alt": {
                   "type": "string"
@@ -124,25 +124,6 @@
             {
               "type": "object",
               "properties": {
-                "gitHubAccount": {
-                  "type": "string"
-                },
-                "company": {
-                  "type": "string"
-                },
-                "twitter": {
-                  "type": "string"
-                }
-              },
-              "required": [
-                "gitHubAccount",
-                "company",
-                "twitter"
-              ]
-            },
-            {
-              "type": "object",
-              "properties": {
                 "displayName": {
                   "type": "string"
                 },
@@ -153,7 +134,8 @@
                   "type": "string"
                 },
                 "twitter": {
-                  "type": "string"
+                  "type": "string",
+                  "pattern": "^https://twitter.com/"
                 }
               },
               "required": [
