@@ -49,6 +49,10 @@
         "short-description": {
           "type": "string"
         },
+        "url": {
+          "type": "string",
+          "pattern": "^https://"
+        },
         "technologies": {
           "type": "array",
           "items": {
@@ -152,7 +156,8 @@
         "short-description",
         "technologies",
         "thumbnails",
-        "authors"
+        "authors",
+        "url"
       ]
     }
   },
