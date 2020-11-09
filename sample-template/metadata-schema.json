@@ -147,7 +147,6 @@
       },
       "required": [
         "name",
-        "version",
         "title",
         "source",
         "short-description",
