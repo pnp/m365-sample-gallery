@@ -1,6 +1,30 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
+  "definitions": {
+    "sharepoint": {
+      "properties": {
+        "id": {
+          "const": "SHAREPOINT"
+        },
+        "spfx-version": {
+          "type": "string"
+        },
+        "node-version": {
+          "type": "string"
+        }
+      }
+    },
+    "teams": {
+      "properties": {
+        "id": {
+          "const": "TEAMS"
+        },
+        "bot": {
+          "type": "string"
+        }
+      }
+    }
+  },
   "properties": {
     "$schema": {
       "type": "string"
@@ -22,81 +46,17 @@
         },
         "technologies": {
           "type": "array",
-          "items": [
-            {
-              "type": "object",
-              "properties": {
-                "id": {
-                  "type": "string"
-                },
-                "bot": {
-                  "type": "string"
-                }
+          "items": {
+            "type": "object",
+            "anyOf": [
+              {
+                "$ref": "#/definitions/sharepoint"
               },
-              "required": [
-                "id",
-                "bot"
-              ]
-            },
-            {
-              "type": "object",
-              "properties": {
-                "$schema": {
-                  "type": "string"
-                },
-                "id": {
-                  "type": "string"
-                },
-                "spfx-version": {
-                  "type": "string"
-                },
-                "node-version": {
-                  "type": "string"
-                }
-              },
-              "required": [
-                "$schema",
-                "id",
-                "spfx-version",
-                "node-version"
-              ]
-            },
-            {
-              "type": "object",
-              "properties": {
-                "id": {
-                  "type": "string"
-                },
-                "GraphAPI": {
-                  "type": "array",
-                  "items": [
-                    {
-                      "type": "string"
-                    },
-                    {
-                      "type": "string"
-                    }
-                  ]
-                },
-                "GraphToolkitControls": {
-                  "type": "array",
-                  "items": [
-                    {
-                      "type": "string"
-                    },
-                    {
-                      "type": "string"
-                    }
-                  ]
-                }
-              },
-              "required": [
-                "id",
-                "GraphAPI",
-                "GraphToolkitControls"
-              ]
-            }
-          ]
+              {
+                "$ref": "#/definitions/teams"
+              }
+            ]
+          }
         },
         "thumbnails": {
           "type": "array",
@@ -195,6 +155,7 @@
       },
       "required": [
         "name",
+        "version",
         "title",
         "source",
         "short-description",
