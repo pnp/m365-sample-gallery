@@ -7,7 +7,8 @@
           "const": "SHAREPOINT"
         },
         "spfx-version": {
-          "type": "string"
+          "type": "string",
+          "pattern": "\\d+.\\d+.\\d+"
         },
         "node-version": {
           "type": "string"
