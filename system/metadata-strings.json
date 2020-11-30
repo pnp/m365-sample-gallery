@@ -1,0 +1,69 @@
+{
+    "metadata-entries": [
+        {
+            "id": "CLIENT-SIDE-DEV",
+            "displayInfo": {
+                "default": {
+                    "displayName": "Client-Side Language",
+                    "description": "Used language for the client-side code"
+                },
+                "fi": {
+                    "displayName": "Kehityskieli",
+                    "description": "Käyttöliittymän kehistyskieli"
+                }
+            }            
+        },
+        {
+            "id": "BOT-FRAMEWORK-VERSION",
+            "displayInfo": {
+                "default": {
+                    "displayName": "Bot Framework Version",
+                    "description": "Used Bot Framework version"
+                },
+                "fi": {
+                    "displayName": "Bot Framework versio",
+                    "description": "Käytetty Bot Framework versio"
+                }
+            }
+        },
+        {
+            "id": "SPFX-VERSION",
+            "displayInfo": {
+                "default": {
+                    "displayName": "SharePoint Framework version",
+                    "description": "Used SharePoint Framework version"
+                },
+                "fi": {
+                    "displayName": "SharePoint Framework versio",
+                    "description": "Käytetty SharePoint Framework versio"
+                }
+            }
+        },
+        {
+            "id": "GRAPH-APIS",
+            "displayInfo": {
+                "default": {
+                    "displayName": "Used Microsoft Graph APIs",
+                    "description": "List of used Microsoft Graph APIs"
+                },
+                "fi": {
+                    "displayName": "Microsoft Graph rajapinnat",
+                    "description": "Käytetyt Microsoft Graph rajapinnat"
+                }
+            }
+        },
+        {
+            "id": "GRAPH-TOOLKIT-CONTROLS",
+            "displayInfo": {
+                "default": {
+                    "displayName": "Used Microsoft Graph Toolkit Controls",
+                    "description": "List of used Microsoft Graph Toolkit Controls"
+                },
+                "fi": {
+                    "displayName": "Microsoft Graph Toolkit kontrollit",
+                    "description": "Käytetyt Microsoft Graph Toolkit kontrollit"
+                }
+            }
+        }
+    ]
+}

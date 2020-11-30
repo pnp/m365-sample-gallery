@@ -6,22 +6,29 @@
       "title": "Action messaging extension with Just In Time installer",
       "source": "pnp",
       "short-description": "Sample of an Action messaging extension that shows a Just-In-Time installer to install the app into Teams/Personal/Group Chat, and how to post an adaptive card response directly into a conversation",
-      "technologies": [
-        {"id": "TEAMS",
-            "bot": "fejefp",
-            "bot": "fejefp"
+      "products": [
+        "Microsoft Teams", "SharePoint", "Office"
+      ],
+      "metadata": [
+        {
+          "key": "CLIENT-SIDE-DEV",
+          "value":"React"
         },
-        {"id": "SHAREPOINT",
-            "spfx-version": "1.11",
-            "node-version": "fejefp"
+        {
+          "key": "BOT-FRAMEWORK-VERSION",
+          "value":"bot40"
         },
-        {"id": "MICROSOFTGRAPH",
-            "GraphAPI": [
-                "file", "sites"
-            ],
-            "GraphToolkitControls": [
-                "agenda", "tasks"
-            ]
+        {
+          "key": "SPFX-VERSION",
+          "value":"1.11"
+        },
+        {
+          "key": "GRAPH-APIS",
+          "value":"sites,files,email"
+        },
+        {
+          "key": "GRAPH-TOOLKIT-CONTROLS",
+          "value":"agenda,tasks"
         }
       ],
       "thumbnails": [
@@ -51,23 +58,4 @@
         }
       ] 
   }
-
-----------------------
-
-  name: msgext-action-jit
-      title: Action messaging extension with Just In Time installer
-      type: demo
-      features: msgext
-      source: pnp
-      summary: Sample of an Action messaging extension that shows a Just-In-Time installer to install the app into Teams/Personal/Group Chat, and how to post an adaptive card response directly into a conversation
-      thumbnail: 
-      url: https://github.com/pnp/teams-dev-samples/tree/master/samples/msgext-graph-action-docreview
-      author: Rajesh Sitaraman
-      client_language:
-      client_platform:
-      client_ui: 
-      server_language: typescript
-      server_platform: express
-      bot_framework: bot40
-      modifiedtext: August 28, 2020
-      modified: 2020-09-10
+}
