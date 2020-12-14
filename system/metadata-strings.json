@@ -4,14 +4,17 @@
             "id": "CLIENT-SIDE-DEV",
             "displayInfo": {
                 "default": {
-                    "displayName": "Client-Side Language",
-                    "description": "Used language for the client-side code"
+                    "displayName": "Client-Side Technology",
+                    "description": "Used technology for the client-side code"
                 },
                 "fi": {
                     "displayName": "Kehityskieli",
                     "description": "Käyttöliittymän kehistyskieli"
                 }
-            }            
+            },
+            "values": [
+                "JavaScript","TypeScript","React","Angular","Handlebars","Vue.js","Other"
+            ]            
         },
         {
             "id": "BOT-FRAMEWORK-VERSION",
@@ -24,7 +27,10 @@
                     "displayName": "Bot Framework versio",
                     "description": "Käytetty Bot Framework versio"
                 }
-            }
+            },
+            "values": [
+                "bot40","bot30","other"
+            ]
         },
         {
             "id": "SPFX-VERSION",
@@ -37,7 +43,10 @@
                     "displayName": "SharePoint Framework versio",
                     "description": "Käytetty SharePoint Framework versio"
                 }
-            }
+            },
+            "values": [
+                "1.0.0","1.1.0","1.3.0","1.4.0","1.4.1","1.5.0","1.5.1","1.6.0","1.7.0","1.7.1","1.8.0","1.8.1","1.8.2","1.9.1","1.10.0","1.11.0"
+            ]
         },
         {
             "id": "GRAPH-APIS",
@@ -50,7 +59,10 @@
                     "displayName": "Microsoft Graph rajapinnat",
                     "description": "Käytetyt Microsoft Graph rajapinnat"
                 }
-            }
+            },
+            "values": [
+                "sites","files","teams","mail","users","groups","identity","others"
+            ]
         },
         {
             "id": "GRAPH-TOOLKIT-CONTROLS",
@@ -63,7 +75,10 @@
                     "displayName": "Microsoft Graph Toolkit kontrollit",
                     "description": "Käytetyt Microsoft Graph Toolkit kontrollit"
                 }
-            }
+            },
+            "values": [
+                "login","get","person","people","personCard","peoplePicker","teamsChannelPicker","agenda","tasks","todo","other"
+            ]
         }
     ]
 }
