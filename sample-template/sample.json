@@ -33,13 +33,13 @@
     "thumbnails": [
       {
         "type": "image",
-        "order": 100,
+        "sortOrder": 100,
         "url": "https://fuufaafuu.png",
         "alt": "Alt text for the image"
       },
       {
         "type": "video",
-        "order": 101,
+        "sortOrder": 101,
         "url": "https://youtube.com/embed/3120470",
         "alt": "Alt text for the video"
       }
