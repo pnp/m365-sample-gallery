@@ -2,8 +2,8 @@
     "$schema": "https://wherever-we-can-shot/sample.schema.json",
     "name": "pnp-sp-dev-spfx-web-parts-sample-folder-name",
     "version": "1.4.2.0",
-    "title": "Action messaging extension with Just In Time installer",
     "source": "pnp",
+    "title": "Action messaging extension with Just In Time installer",
     "short-description": "Sample of an Action messaging extension that shows a Just-In-Time installer to install the app into Teams/Personal/Group Chat, and how to post an adaptive card response directly into a conversation",
     "products": [
       "Microsoft Teams", "SharePoint", "Office"
