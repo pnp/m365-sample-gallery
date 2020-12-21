@@ -1,22 +1,22 @@
 {
     "categories": [
         {
-            "id": "CATEORY1",
+            "id": "CATEGORY1",
             "displayName": "Category 1 display",
             "description": "Potential description for category"
         },
         {
-            "id": "CATEORY2",
+            "id": "CATEGORY2",
             "displayName": "Category 2 display",
             "description": "Potential description for category"
         },
         {
-            "id": "CATEORY3",
+            "id": "CATEGORY3",
             "displayName": "Category 3 display",
             "description": "Potential description for category"
         },
         {
-            "id": "CATEORY4",
+            "id": "CATEGORY4",
             "displayName": "Category 4 display",
             "description": "Potential description for category"
         }                            

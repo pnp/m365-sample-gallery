@@ -8,6 +8,9 @@
     "products": [
       "Microsoft Teams", "SharePoint", "Office"
     ],
+    "categories": [
+      "CATEGORY1","CATEGORY4"
+    ],
     "metadata": [
       {
         "key": "CLIENT-SIDE-DEV",
