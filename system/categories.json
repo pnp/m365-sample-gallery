@@ -1,6 +1,7 @@
 {
     "categories": [
-        {"id": "CATEORY1",
+        {
+            "id": "CATEORY1",
             "displayInfo": 
                 {​​
                     "default": {
@@ -13,7 +14,8 @@
                         }                        
                 }
         },
-        {"id": "CATEORY2",
+        {
+            "id": "CATEORY2",
             "displayInfo": 
                 {​​
                     "default": {
@@ -26,7 +28,8 @@
                         }                        
                 }
         },
-        {"id": "CATEORY3",
+        {
+            "id": "CATEORY3",
             "displayInfo": 
                 {​​
                     "default": {
@@ -39,7 +42,8 @@
                         }                        
                 }
         },
-        {"id": "CATEORY4",
+        {
+            "id": "CATEORY4",
             "displayInfo": 
                 {​​
                     "default": {
