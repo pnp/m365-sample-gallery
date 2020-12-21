@@ -2,59 +2,23 @@
     "categories": [
         {
             "id": "CATEORY1",
-            "displayInfo": 
-                {​​
-                    "default": {
-                         "displayName": "Category 1 display",
-                         "description": "Potential description for category"
-                        },
-                    "fi": {
-                        "displayName": "Laajanna keskusteluita",
-                        "description": "Potential description for category"
-                        }                        
-                }
+            "displayName": "Category 1 display",
+            "description": "Potential description for category"
         },
         {
             "id": "CATEORY2",
-            "displayInfo": 
-                {​​
-                    "default": {
-                         "displayName": "Category 2 display",
-                         "description": "Potential description for category"
-                        },
-                    "fi": {
-                        "displayName": "Laajanna keskusteluita",
-                        "description": "Potential description for category"
-                        }                        
-                }
+            "displayName": "Category 2 display",
+            "description": "Potential description for category"
         },
         {
             "id": "CATEORY3",
-            "displayInfo": 
-                {​​
-                    "default": {
-                         "displayName": "Category 3 display",
-                         "description": "Potential description for category"
-                        },
-                    "fi": {
-                        "displayName": "Laajanna keskusteluita",
-                        "description": "Potential description for category"
-                        }                        
-                }
+            "displayName": "Category 3 display",
+            "description": "Potential description for category"
         },
         {
             "id": "CATEORY4",
-            "displayInfo": 
-                {​​
-                    "default": {
-                         "displayName": "Category 4 display",
-                         "description": "Potential description for category"
-                        },
-                    "fi": {
-                        "displayName": "Laajanna keskusteluita",
-                        "description": "Potential description for category"
-                        }                        
-                }
+            "displayName": "Category 4 display",
+            "description": "Potential description for category"
         }                            
    ]
 }
