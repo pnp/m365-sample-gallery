@@ -1,0 +1,16 @@
+{
+    "repositories" : [
+        {
+            "name": "M365 Sample Gallery",
+            "relativeUrl": "pnp/m365-sample-gallery"
+        },
+        {
+            "name": "SharePoint Code Samples",
+            "relativeUrl": "pnp/sp-dev-samples"
+        },
+        {
+            "name": "SPFx Web Parts",
+            "relativeUrl": "pnp/sp-dev-fx-webparts"
+        }
+    ]    
+}
