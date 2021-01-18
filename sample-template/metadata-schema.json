@@ -1,5 +1,5 @@
 {
-  "$id": "https://sharepointpnp.com/sample.schema.json",
+  "$id": "https://m365galleries.com/sample.schema.json",
   "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "object",
   "properties": {
