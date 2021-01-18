@@ -1,0 +1,31 @@
+{
+    "$schema": "./metadata-schema.json",
+    "name": "assa",
+    "categories": ["C01","C02","C03"],
+    "products": ["P01", "P02", "P03"],
+    "thumbnails": [
+        {
+            "type": "image",
+            "order": 100,
+            "url": "https://fuufaafuu.png",
+            "alt": "Alt text for the image"
+        },
+        {
+            "type": "slideshow",
+            "order": 0,
+            "alt": "",
+            "slides": [
+                { "url": "/assets/slide83.png","order": 10, "alt": "Alt text for a slide"},
+                { "url": "/assets/slide84.png","order": 20, "alt": "Alt text for a slide"},
+                { "url": "/assets/slide85.png","order": 30, "alt": "Alt text for a slide"}
+            ]
+        }
+    ],
+    "authors": [
+        {
+            "gitHubAccount": "account1name",
+            "company": "Contoso",
+            "pictureUrl": "https://mypicture.com/account1.png"
+        }
+    ]
+}
