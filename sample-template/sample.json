@@ -1,5 +1,5 @@
 {
-    "$schema": "https://wherever-we-can-shot/sample.schema.json",
+    "$schema": "./metadata-schema.json",
     "name": "pnp-sp-dev-spfx-web-parts-sample-folder-name",
     "version": "1.4.2.0",
     "source": "pnp",
@@ -88,14 +88,14 @@
     ],
     "authors": [
       {
-        "gitHubAccount": "accountname",
+        "gitHubAccount": "account1name",
         "company": "Contoso",
-        "twitter": "https://twitter.com/fuu"
+        "pictureUrl": "https://mypicture.com/account1.png"
       },
       {
-        "gitHubAccount": "accountname",
-        "company": "Contoso",
-        "twitter": "https://twitter.com/fuu"
+        "gitHubAccount": "account2name",
+        "company": "Fabrikam",
+        "pictureUrl": "https://mypicture.com/account2.png"
       }
     ] 
 }
