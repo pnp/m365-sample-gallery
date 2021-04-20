@@ -20,6 +20,14 @@
       "url": {
         "type": "string"
       },
+      "creationDateTime": {
+        "type": "string",
+        "format": "date-time"
+      },
+      "updateDateTime": {
+        "type": "string",
+        "format": "date-time"
+      },
       "shortDescription": {
         "type": "string"
       },

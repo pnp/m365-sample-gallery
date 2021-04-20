@@ -6,6 +6,8 @@
     "source": "pnp",
     "title": "Action messaging extension with Just In Time installer", 
     "url": "https://github.com/pnp/m365-sample-gallery",
+    "creationDateTime": "2021-04-20T18:25:43.511Z",
+    "updateDateTime": "2021-04-20T18:25:43.511Z",
     "shortDescription": "Sample of an Action messaging extension that shows a Just-In-Time installer to install the app into Teams/Personal/Group Chat, and how to post an adaptive card response directly into a conversation",
     "longDescription": 
       [
