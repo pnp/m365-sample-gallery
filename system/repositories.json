@@ -9,6 +9,10 @@
             "relativeUrl": "pnp/sp-dev-fx-webparts"
         },
         {
+            "name": "SPFx Web Parts",
+            "relativeUrl": "pnp/sp-dev-fx-extensions"
+        },        
+        {
             "name": "Power Fx Samples",
             "relativeUrl": "pnp/powerfx-samples"
         }
