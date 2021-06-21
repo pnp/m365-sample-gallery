@@ -15,6 +15,10 @@
         {
             "name": "Power Fx Samples",
             "relativeUrl": "pnp/powerfx-samples"
+        },
+        {
+            "name": "Teams samples",
+            "relativeUrl": "pnp/teams-dev-samples"
         }
     ]    
 }
