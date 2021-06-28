@@ -5,15 +5,23 @@
             "displayName": "Client-Side Technology",
             "description": "Used technology for the client-side code",
             "values": [
-                "JavaScript","TypeScript","React","Angular","Handlebars","Vue.js","Other"
-            ]            
+                "JavaScript",
+                "TypeScript",
+                "React",
+                "Angular",
+                "Handlebars",
+                "Vue.js",
+                "Other"
+            ]
         },
         {
             "id": "BOT-FRAMEWORK-VERSION",
             "displayName": "Bot Framework Version",
             "description": "Used Bot Framework version",
             "values": [
-                "bot40","bot30","other"
+                "bot40",
+                "bot30",
+                "other"
             ]
         },
         {
@@ -21,7 +29,22 @@
             "displayName": "SharePoint Framework version",
             "description": "Used SharePoint Framework version",
             "values": [
-                "1.0.0","1.1.0","1.3.0","1.4.0","1.4.1","1.5.0","1.5.1","1.6.0","1.7.0","1.7.1","1.8.0","1.8.1","1.8.2","1.9.1","1.10.0","1.11.0"
+                "1.0.0",
+                "1.1.0",
+                "1.3.0",
+                "1.4.0",
+                "1.4.1",
+                "1.5.0",
+                "1.5.1",
+                "1.6.0",
+                "1.7.0",
+                "1.7.1",
+                "1.8.0",
+                "1.8.1",
+                "1.8.2",
+                "1.9.1",
+                "1.10.0",
+                "1.11.0"
             ]
         },
         {
@@ -29,7 +52,14 @@
             "displayName": "Used Microsoft Graph APIs",
             "description": "List of used Microsoft Graph APIs",
             "values": [
-                "sites","files","teams","mail","users","groups","identity","others"
+                "sites",
+                "files",
+                "teams",
+                "mail",
+                "users",
+                "groups",
+                "identity",
+                "others"
             ]
         },
         {
@@ -37,7 +67,116 @@
             "displayName": "Used Microsoft Graph Toolkit Controls",
             "description": "List of used Microsoft Graph Toolkit Controls",
             "values": [
-                "login","get","person","people","personCard","peoplePicker","teamsChannelPicker","agenda","tasks","todo","other"
+                "login",
+                "get",
+                "person",
+                "people",
+                "personCard",
+                "peoplePicker",
+                "teamsChannelPicker",
+                "agenda",
+                "tasks",
+                "todo",
+                "other"
+            ]
+        },
+        {
+            "id": "LIST-SAMPLE-TYPE",
+            "displayName": "List Sample Type",
+            "description": "Describes whether the sample applies to view, column, or form formatting",
+            "values": [
+                "View",
+                "Column",
+                "Form"
+            ]
+        },
+        {
+            "id": "LIST-COLUMN-TYPE",
+            "displayName": "Column Type",
+            "description": "Indicates the type of columns used in the view",
+            "values": [
+                "ContentType",
+                "Currency",
+                "Date/Time",
+                "General",
+                "Hyperlink",
+                "Location",
+                "Multi-Choice",
+                "Multi-Person",
+                "Number",
+                "Person",
+                "Picture",
+                "Yes/No"
+            ]
+        },
+        {
+            "id": "LIST-OPERATOR",
+            "displayName": "Advanced operators",
+            "description": "Samples are listed by their usage of advanced operators, excluding common arithmetic operators.",
+            "values": [
+                "abs",
+                "cos",
+                "Date",
+                "forEach",
+                "indexOf",
+                "join",
+                "length",
+                "loopIndex",
+                "Modulus %",
+                "Number",
+                "sin",
+                "toLocaleString",
+                "toLocaleDateString",
+                "toLocaleDateTimeString",
+                "toLowerCase",
+                "toString"
+            ]
+        },
+        {
+            "id": "LIST-PLACEHOLDER-TOKEN",
+            "displayName": "Placeholder Tokens",
+            "description": "Samples are listed by their usage of placeholder tokens. @currentField is excluded because it is used nearly everywhere.",
+            "values": [
+                "@currentWeb",
+                "@me",
+                "@now",
+                "@rowIndex",
+                "@thumbnail",
+                "@window"
+            ]
+        },
+        {
+            "id": "LIST-ROW-ACTION",
+            "displayName": "Row Action",
+            "description": "Samples are listed by their usage of customRowAction action properties.",
+            "values": [
+                "defaultClick",
+                "delete",
+                "editProps",
+                "executeFlow",
+                "share"
+            ]
+        },
+        {
+            "id": "LIST-CATEGORY",
+            "displayName": "Topic or Approach",
+            "description": "Samples are listed by topic or approach.",
+            "values": [
+                "Cards",
+                "Charts",
+                "Document Library",
+                "Dynamic Links",
+                "Flow",
+                "Icons",
+                "Maps",
+                "People",
+                "Severity",
+                "Social Media",
+                "Status / Progress",
+                "SVG",
+                "Text Conditional",
+                "Tiles",
+                "Trending"
             ]
         }
     ]
