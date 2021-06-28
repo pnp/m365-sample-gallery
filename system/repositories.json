@@ -19,6 +19,10 @@
         {
             "name": "Teams samples",
             "relativeUrl": "pnp/teams-dev-samples"
+        },
+        {
+            "name": "List Formatting Samples",
+            "relativeUrl": "pnp/List-Formatting"
         }
     ]    
 }
