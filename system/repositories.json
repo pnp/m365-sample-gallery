@@ -23,6 +23,10 @@
         {
             "name": "List Formatting Samples",
             "relativeUrl": "pnp/List-Formatting"
+        },
+        {
+            "name": "ACEs",
+            "relativeUrl": "pnp/sp-dev-fx-aces"
         }
     ]    
 }
