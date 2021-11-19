@@ -27,6 +27,10 @@
         {
             "name": "ACEs",
             "relativeUrl": "pnp/sp-dev-fx-aces"
+        },
+        {
+            "name": "Reference ACEs",
+            "relativeUrl": "pnp/spfx-reference-scenarios"
         }
     ]    
 }
