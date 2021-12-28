@@ -31,6 +31,10 @@
         {
             "name": "Reference ACEs",
             "relativeUrl": "pnp/spfx-reference-scenarios"
+        },
+        {
+            "name": "Adaptive Card designs",
+            "relativeUrl": "pnp/AdaptiveCards-Templates"
         }
     ]    
 }
