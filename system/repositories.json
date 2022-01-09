@@ -35,6 +35,10 @@
         {
             "name": "Adaptive Card designs",
             "relativeUrl": "pnp/AdaptiveCards-Templates"
+        },
+        {
+            "name": "Script Samples",
+            "relativeUrl": "pnp/script-samples"
         }
     ]    
 }
