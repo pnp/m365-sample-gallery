@@ -39,6 +39,18 @@
         {
             "name": "Script Samples",
             "relativeUrl": "pnp/script-samples"
+        },
+        {
+            "name": "Power Apps Samples",
+            "relativeUrl": "pnp/powerapps-samples"
+        },
+        {
+            "name": "Power Fx Samples",
+            "relativeUrl": "pnp/powerfx-samples"
+        },
+        {
+            "name": "Power Automate Samples",
+            "relativeUrl": "pnp/powerautomate-samples"
         }
     ]    
 }

@@ -19,10 +19,22 @@
             "order": 30
         },
         {
+            "id": "PowerApps",
+            "displayName": "Power Apps",
+            "searchKeyword": "Power Apps",
+            "order": 35
+        },
+        {
             "id": "PowerAutomate",
             "displayName": "Power Automate",
             "searchKeyword": "Power Automate",
             "order": 40
+        },
+        {
+            "id": "PowerFx",
+            "displayName": "Power Fx",
+            "searchKeyword": "Power Fx",
+            "order": 45
         },
         {
             "id": "SharePoint",
