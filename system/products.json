@@ -1,32 +1,38 @@
 {
     "products" : [
         {
-            "name": "Microsoft Lists",
+            "id": "MicrosoftLists",
+            "displayName": "Microsoft Lists",
             "searchKeyword": "Microsoft Lists",
             "order": 10
         },
         {
-            "name": "Microsoft Teams",
+            "id": "MicrosoftTeams",
+            "displayName": "Microsoft Teams",
             "searchKeyword": "Teams",
             "order": 20
         },
         {
-            "name": "Azure AD",
+            "id": "AzureAD",
+            "displayName": "Azure AD",
             "searchKeyword": "AzureAD",
             "order": 30
         },
         {
-            "name": "Power Automate",
+            "id": "PowerAutomate",
+            "displayName": "Power Automate",
             "searchKeyword": "Power Automate",
             "order": 40
         },
         {
-            "name": "SharePoint",
+            "id": "SharePoint",
+            "displayName": "SharePoint",
             "searchKeyword": "SharePoint",
             "order": 50
         },
         {
-            "name": "Viva",
+            "id": "Viva",
+            "displayName": "Viva",
             "searchKeyword": "Viva",
             "order": 60
         }
