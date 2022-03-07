@@ -1,0 +1,34 @@
+{
+    "products" : [
+        {
+            "name": "Microsoft Lists",
+            "searchKeyword": "Microsoft Lists",
+            "order": 10
+        },
+        {
+            "name": "Microsoft Teams",
+            "searchKeyword": "Teams",
+            "order": 20
+        },
+        {
+            "name": "Azure AD",
+            "searchKeyword": "AzureAD",
+            "order": 30
+        },
+        {
+            "name": "Power Automate",
+            "searchKeyword": "Power Automate",
+            "order": 40
+        },
+        {
+            "name": "SharePoint",
+            "searchKeyword": "SharePoint",
+            "order": 50
+        },
+        {
+            "name": "Viva",
+            "searchKeyword": "Viva",
+            "order": 60
+        }
+    ]    
+}
