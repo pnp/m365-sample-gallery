@@ -47,6 +47,18 @@
             "displayName": "Viva",
             "searchKeyword": "Viva",
             "order": 60
+        },
+        {
+            "id": "Microsoft Graph",
+            "displayName": "Microsoft Graph",
+            "searchKeyword": "Microsoft Graph",
+            "order": 70
+        },
+        {
+            "id": "Microsoft Graph Toolkit",
+            "displayName": "Microsoft Graph Toolkit",
+            "searchKeyword": "Microsoft Graph Toolkit",
+            "order": 80
         }
     ]    
 }
