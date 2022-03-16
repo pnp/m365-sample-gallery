@@ -51,6 +51,10 @@
         {
             "name": "Power Automate Samples",
             "relativeUrl": "pnp/powerautomate-samples"
+        },
+        {
+            "name": "Microsoft Graph Toolkit Samples",
+            "relativeUrl": "pnp/mgt-samples"
         }
     ]    
 }
