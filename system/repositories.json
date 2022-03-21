@@ -55,6 +55,10 @@
         {
             "name": "Microsoft Graph Toolkit Samples",
             "relativeUrl": "pnp/mgt-samples"
+        },
+        {
+            "name": "Microsoft Graph Samples",
+            "relativeUrl": "pnp/graph-samples"
         }
     ]    
 }
