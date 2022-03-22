@@ -52,19 +52,19 @@
       "preview": {
         "type": "object",
         "properties": {
-          "previewLabel": {
+          "label": {
             "type": "string"
           },
-          "previewUrl": {
+          "url": {
             "type": "string"
           },
-          "previewSettings": {
+          "settings": {
             "type": "object"
           }
         },
         "required": [
-          "previewLabel",
-          "previewUrl"
+          "label",
+          "url"
         ]
       },
       "metadata": {

@@ -22,9 +22,9 @@
       "CATEGORY1","CATEGORY4"
     ],
     "preview": {
-      "previewLabel": "Click here for preview",
-      "previewUrl": "https://www.something.com/",
-      "previewSettings": {
+      "label": "Click here for preview",
+      "url": "https://www.something.com/",
+      "settings": {
         "oneCustomSetting": "OneCustomCustomValue",
         "anotherCustomSetting": "AnotherCustomCustomValue"
       }
