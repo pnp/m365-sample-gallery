@@ -49,6 +49,24 @@
           "type": "string"
         }
       },
+      "preview": {
+        "type": "object",
+        "properties": {
+          "previewLabel": {
+            "type": "string"
+          },
+          "previewUrl": {
+            "type": "string"
+          },
+          "previewSettings": {
+            "type": "object"
+          }
+        },
+        "required": [
+          "previewLabel",
+          "previewUrl"
+        ]
+      },
       "metadata": {
         "type": "array",
         "items": {

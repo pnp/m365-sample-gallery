@@ -21,6 +21,14 @@
     "categories": [
       "CATEGORY1","CATEGORY4"
     ],
+    "preview": {
+      "previewLabel": "Click here for preview",
+      "previewUrl": "https://www.something.com/",
+      "previewSettings": {
+        "oneCustomSetting": "OneCustomCustomValue",
+        "anotherCustomSetting": "AnotherCustomCustomValue"
+      }
+    },
     "metadata": [
       {
         "key": "CLIENT-SIDE-DEV",
