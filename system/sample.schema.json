@@ -37,6 +37,9 @@
           "type": "string"
         }
       },
+      "downloadUrl": {
+        "type": "string"
+      },
       "products": {
         "type": "array",
         "items": {

@@ -15,6 +15,7 @@
         "Paragraph 02",
         "Paragraph 03"
       ],
+    "downloadUrl": "https://download.url/file.zip",
     "products": [
       "Microsoft Teams", "SharePoint", "Office"
     ],
