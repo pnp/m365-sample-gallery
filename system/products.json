@@ -19,6 +19,12 @@
             "order": 30
         },
         {
+            "id": "Office",
+            "displayName": "Office",
+            "searchKeyword": "Office",
+            "order": 32
+        },        
+        {
             "id": "PowerApps",
             "displayName": "Power Apps",
             "searchKeyword": "Power Apps",
