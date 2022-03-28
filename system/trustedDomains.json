@@ -1,0 +1,12 @@
+{
+    "trustedDomains" : [
+        {
+            "id": "Microsoft",
+            "hostName": "microsoft.com"
+        },
+        {
+            "id": "GitHub",
+            "hostName": "github.com"
+        }
+    ]    
+}
