@@ -2,11 +2,11 @@
     "trustedDomains" : [
         {
             "id": "Microsoft",
-            "hostName": "microsoft.com"
+            "hostname": "microsoft.com"
         },
         {
             "id": "GitHub",
-            "hostName": "github.com"
+            "hostname": "github.com"
         }
     ]    
 }
