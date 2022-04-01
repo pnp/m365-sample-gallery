@@ -59,6 +59,10 @@
         {
             "name": "Microsoft Graph Samples",
             "relativeUrl": "pnp/graph-samples"
+        },
+        {
+            "name": "Office Add-ins code samples",
+            "relativeUrl": "OfficeDev/Office-Add-in-samples"
         }
     ]    
 }
