@@ -63,6 +63,10 @@
         {
             "name": "Office Add-ins code samples",
             "relativeUrl": "OfficeDev/Office-Add-in-samples"
+        },
+        {
+            "name": "OneDrive Samples",
+            "relativeUrl": "OneDrive/Samples"
         }
     ]    
 }
