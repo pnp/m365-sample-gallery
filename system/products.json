@@ -65,6 +65,12 @@
             "displayName": "Microsoft Graph Toolkit",
             "searchKeyword": "Microsoft Graph Toolkit",
             "order": 80
+        },
+        {
+            "id": "OneDrive",
+            "displayName": "OneDrive",
+            "searchKeyword": "OneDrive",
+            "order": 90
         }
     ]    
 }
