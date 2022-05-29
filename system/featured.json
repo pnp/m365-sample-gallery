@@ -1,0 +1,14 @@
+{
+    "featured": [
+        {
+            "sampleLink": "https://github.com/pnp/sp-dev-fx-webparts/blob/main/samples/aad-api-spo-cookie/assets/sample.json",
+            "featuredOn": "2022-05-29",
+            "comment": "This is just a sample of a featured item"
+        },
+        {
+            "sampleLink": "https://github.com/pnp/sp-dev-fx-webparts/blob/main/samples/react-check-user-group/assets/sample.json",
+            "featuredOn": "2022-05-29",
+            "comment": "This is just a sample of a featured item"
+        }
+    ]
+}
