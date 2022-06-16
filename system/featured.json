@@ -11,6 +11,48 @@
             "sampleLink": "https://github.com/pnp/sp-dev-fx-webparts/blob/main/samples/react-check-user-group/assets/sample.json",
             "editedOn": "2022-05-29",
             "comment": "This is just a sample of a featured item"
+        },
+        {
+            "sampleId": "pnp-sp-dev-teams-sample-app-acs-calling",
+            "sampleLink": "https://github.com/pnp/teams-dev-samples/blob/main/samples/app-acs-calling/assets/sample.json",
+            "editedOn": "2022-06-16",
+            "comment": "Initial Teams featured app"
+        },
+        {
+            "sampleId": "pnp-sp-dev-teams-sample-bot-proactive-messaging-node",
+            "sampleLink": "https://github.com/pnp/teams-dev-samples/blob/main/samples/bot-proactive-messaging/assets/sample.json",
+            "editedOn": "2022-06-16",
+            "comment": "Initial Teams featured app"
+        },
+        {
+            "sampleId": "pnp-sp-dev-teams-sample-msgext-msg-forwarder",
+            "sampleLink": "https://github.com/pnp/teams-dev-samples/blob/main/samples/msgext-msg-forwarder/assets/sample.json",
+            "editedOn": "2022-06-16",
+            "comment": "Initial Teams featured app"
+        },
+        {
+            "sampleId": "pnp-sp-dev-teams-sample-tab-meeting-record-name",
+            "sampleLink": "https://github.com/pnp/teams-dev-samples/blob/main/samples/tab-meeting-record-name/assets/sample.json",
+            "editedOn": "2022-06-16",
+            "comment": "Initial Teams featured app"
+        },
+        {
+            "sampleId": "pnp-sp-dev-teams-sample-tab-meeting-stageview-basic",
+            "sampleLink": "https://github.com/pnp/teams-dev-samples/blob/main/samples/tab-meeting-stageview-vote-movie/assets/sample.json",
+            "editedOn": "2022-06-16",
+            "comment": "Initial Teams featured app"
+        },
+        {
+            "sampleId": "pnp-sp-dev-teams-sample-app-consulting-bot",
+            "sampleLink": "https://github.com/pnp/teams-dev-samples/blob/main/samples/app-consulting-bot/assets/sample.json",
+            "editedOn": "2022-06-16",
+            "comment": "Initial Teams featured app"
+        },
+        {
+            "sampleId": "pnp-sp-dev-teams-sample-tab-one-productivity-hub",
+            "sampleLink": "https://github.com/pnp/teams-dev-samples/blob/main/samples/tab-one-productivity-hub/assets/sample.json",
+            "editedOn": "2022-06-16",
+            "comment": "Initial Teams featured app"
         }
     ]
 }
