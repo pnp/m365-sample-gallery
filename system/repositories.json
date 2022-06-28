@@ -67,6 +67,10 @@
         {
             "name": "OneDrive Samples",
             "relativeUrl": "OneDrive/Samples"
-        }
+        },
+        {
+            "name": "Microsoft Teams samples from engineering",
+            "relativeUrl": "OfficeDev/microsoft-teams-samples"
+        },        
     ]    
 }
