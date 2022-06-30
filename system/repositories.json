@@ -71,6 +71,10 @@
         {
             "name": "Microsoft Teams samples from engineering",
             "relativeUrl": "OfficeDev/microsoft-teams-samples"
-        },        
+        }, 
+        {
+            "name": "CLI for Microsoft 365",
+            "relativeUrl": "pnp/cli-microsoft365"
+        },       
     ]    
 }
