@@ -10,7 +10,8 @@
         },
         {
             "name": "SPFx Web Parts",
-            "relativeUrl": "pnp/sp-dev-fx-extensions"
+            "relativeUrl": "pnp/sp-dev-fx-extensions",
+            "baselinePath": "samples"
         },        
         {
             "name": "Power Fx Samples",
@@ -74,7 +75,8 @@
         }, 
         {
             "name": "CLI for Microsoft 365",
-            "relativeUrl": "pnp/cli-microsoft365"
-        },       
+            "relativeUrl": "pnp/cli-microsoft365",
+            "depth": 5
+        }       
     ]    
 }
