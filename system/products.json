@@ -71,6 +71,12 @@
             "displayName": "OneDrive",
             "searchKeyword": "OneDrive",
             "order": 90
+        },
+        {
+            "id": "Microsoft To Do",
+            "displayName": "Microsoft To Do",
+            "searchKeyword": "Microsoft To Do",
+            "order": 90
         }
     ]    
 }
