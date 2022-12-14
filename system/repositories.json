@@ -78,6 +78,10 @@
             "relativeUrl": "pnp/cli-microsoft365",
             "baselinePath": "docs/docs/sample-scripts",
             "depth": 3
-        }       
+        },
+        {
+            "name": "SharePoint Solutions",
+            "relativeUrl": "pnp/sp-dev-solutions"
+        },        
     ]    
 }
