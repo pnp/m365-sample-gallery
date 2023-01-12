@@ -82,6 +82,10 @@
         {
             "name": "SharePoint Solutions",
             "relativeUrl": "pnp/sp-dev-solutions"
-        },        
+        },
+        {
+            "name": "Teams Fx Samples",
+            "relativeUrl": "OfficeDev/TeamsFx-Samples"
+        }
     ]    
 }
