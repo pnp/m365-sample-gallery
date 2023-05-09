@@ -86,6 +86,10 @@
         {
             "name": "Teams Fx Samples",
             "relativeUrl": "OfficeDev/TeamsFx-Samples"
+        },
+        {
+            "name": "Power Platform Samples",
+            "relativeUrl": "pnp/powerplatform-samples"
         }
     ]    
 }
