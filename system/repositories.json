@@ -90,6 +90,10 @@
         {
             "name": "Power Platform Samples",
             "relativeUrl": "pnp/powerplatform-samples"
+        },
+        {
+            "name": "Power Platform Prompts",
+            "relativeUrl": "pnp/owerplatform-prompts"
         }
     ]    
 }
