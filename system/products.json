@@ -77,6 +77,12 @@
             "displayName": "Microsoft To Do",
             "searchKeyword": "Microsoft To Do",
             "order": 90
+        },
+        {
+            "id": "Teams Global Hack",
+            "displayName": "Teams Global Hack",
+            "searchKeyword": "Teams Global Hack",
+            "order": 100
         }
     ]    
 }
