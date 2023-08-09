@@ -67,6 +67,12 @@
             "order": 80
         },
         {
+            "id": "Microsoft365DeveloperProxy",
+            "displayName": "Microsoft 365 Developer Proxy",
+            "searchKeyword": "Microsoft 365 Developer Proxy",
+            "order": 85
+        },
+        {
             "id": "OneDrive",
             "displayName": "OneDrive",
             "searchKeyword": "OneDrive",
