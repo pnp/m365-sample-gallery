@@ -94,6 +94,10 @@
         {
             "name": "Power Platform Prompts",
             "relativeUrl": "pnp/owerplatform-prompts"
+        },
+        {
+            "name": "Microsoft 365 Developer Proxy samples",
+            "relativeUrl": "pnp/proxy-samples"
         }
     ]    
 }
