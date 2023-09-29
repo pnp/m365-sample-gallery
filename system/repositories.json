@@ -98,6 +98,10 @@
         {
             "name": "Microsoft 365 Developer Proxy samples",
             "relativeUrl": "pnp/proxy-samples"
+        },
+        {
+            "name": "Microsoft Graph connectors samples",
+            "relativeUrl": "pnp/graph-connectors-samples"
         }
     ]    
 }

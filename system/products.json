@@ -61,6 +61,12 @@
             "order": 70
         },
         {
+            "id": "Microsoft Graph connectors",
+            "displayName": "Microsoft Graph connectors",
+            "searchKeyword": "Microsoft Graph connectors",
+            "order": 75
+        },
+        {
             "id": "Microsoft Graph Toolkit",
             "displayName": "Microsoft Graph Toolkit",
             "searchKeyword": "Microsoft Graph Toolkit",
