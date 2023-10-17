@@ -100,8 +100,12 @@
             "relativeUrl": "pnp/proxy-samples"
         },
         {
-            "name": "Microsoft Graph connectors samples",
+            "name": "Microsoft Graph community samples",
             "relativeUrl": "pnp/graph-connectors-samples"
+        },
+        {
+            "name": "Microsoft Graph connector sample 1",
+            "relativeUrl": "microsoftgraph/msgraph-sample-github-connector-dotnet"
         }
-    ]    
+    ]
 }
