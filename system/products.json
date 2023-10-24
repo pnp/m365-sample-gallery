@@ -55,6 +55,12 @@
             "order": 60
         },
         {
+            "id": "Microsoft 365 Copilot",
+            "displayName": "Microsoft 365 Copilot",
+            "searchKeyword": "Microsoft 365 Copilot",
+            "order": 65
+        },
+        {
             "id": "Microsoft Graph",
             "displayName": "Microsoft Graph",
             "searchKeyword": "Microsoft Graph",
