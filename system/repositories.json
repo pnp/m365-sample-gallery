@@ -106,6 +106,10 @@
         {
             "name": "Microsoft Graph connector sample 1",
             "relativeUrl": "microsoftgraph/msgraph-sample-github-connector-dotnet"
+        },
+        {
+            "name": "Microsoft Graph connector sample 2",
+            "relativeUrl": "microsoftgraph/msgraph-sample-github-connector-python"
         }
     ]
 }
