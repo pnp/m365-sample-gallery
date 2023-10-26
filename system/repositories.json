@@ -110,6 +110,10 @@
         {
             "name": "Microsoft Graph connector sample 2",
             "relativeUrl": "microsoftgraph/msgraph-sample-github-connector-python"
+        },
+        {
+            "name": "Microsoft Graph connector sample 3",
+            "relativeUrl": "microsoftgraph/msgraph-sample-github-connector-typescript"
         }
     ]
 }
