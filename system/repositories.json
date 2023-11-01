@@ -116,8 +116,8 @@
             "relativeUrl": "microsoftgraph/msgraph-sample-github-connector-typescript"
         },
         {
-            "name": "Microsoft 365 Copilot plugins samples",
-            "relativeUrl": "OfficeDev/M365-Copilot-Plugins-Samples"
+            "name": "Copilot for Microsoft 365 plugins samples",
+            "relativeUrl": "OfficeDev/Copilot-for-M365-Plugins-Samples"
         }
     ]
 }
