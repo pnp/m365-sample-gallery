@@ -13,6 +13,12 @@
             "order": 20
         },
         {
+            "id": "MicrosoftTeamsToolkit",
+            "displayName": "Microsoft Teams Toolkit",
+            "searchKeyword": "TeamsToolkit",
+            "order": 25
+        },        
+        {
             "id": "AzureAD",
             "displayName": "Azure AD",
             "searchKeyword": "AzureAD",
