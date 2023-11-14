@@ -85,9 +85,9 @@
             "order": 80
         },
         {
-            "id": "Microsoft365DeveloperProxy",
-            "displayName": "Microsoft 365 Developer Proxy",
-            "searchKeyword": "Microsoft 365 Developer Proxy",
+            "id": "DevProxy",
+            "displayName": "Dev Proxy",
+            "searchKeyword": "Dev Proxy",
             "order": 85
         },
         {
