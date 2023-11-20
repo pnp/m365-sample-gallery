@@ -4,109 +4,127 @@
             "id": "MicrosoftLists",
             "displayName": "Microsoft Lists",
             "searchKeyword": "Microsoft Lists",
-            "order": 10
+            "order": 10,
+            "visible": true
         },
         {
             "id": "MicrosoftTeams",
             "displayName": "Microsoft Teams",
             "searchKeyword": "Teams",
-            "order": 20
+            "order": 20,
+            "visible": true
         },
         {
             "id": "MicrosoftTeamsToolkit",
             "displayName": "Microsoft Teams Toolkit",
             "searchKeyword": "TeamsToolkit",
-            "order": 25
+            "order": 25,
+            "visible": true
         },        
         {
             "id": "AzureAD",
             "displayName": "Azure AD",
             "searchKeyword": "AzureAD",
-            "order": 30
+            "order": 30,
+            "visible": true
         },
         {
             "id": "Office",
             "displayName": "Office",
             "searchKeyword": "Office",
-            "order": 32
+            "order": 32,
+            "visible": true
         },        
         {
             "id": "PowerApps",
             "displayName": "Power Apps",
             "searchKeyword": "Power Apps",
-            "order": 35
+            "order": 35,
+            "visible": true
         },
         {
             "id": "PowerAutomate",
             "displayName": "Power Automate",
             "searchKeyword": "Power Automate",
-            "order": 40
+            "order": 40,
+            "visible": true
         },
         {
             "id": "PowerFx",
             "displayName": "Power Fx",
             "searchKeyword": "Power Fx",
-            "order": 45
+            "order": 45,
+            "visible": true
         },
         {
             "id": "SharePoint",
             "displayName": "SharePoint",
             "searchKeyword": "SharePoint",
-            "order": 50
+            "order": 50,
+            "visible": true
         },
         {
             "id": "Viva",
             "displayName": "Viva",
             "searchKeyword": "Viva",
-            "order": 60
+            "order": 60,
+            "visible": true
         },
         {
             "id": "Microsoft 365 Copilot",
             "displayName": "Copilot for Microsoft 365",
             "searchKeyword": "Microsoft 365 Copilot",
-            "order": 65
+            "order": 65,
+            "visible": true
         },
         {
             "id": "Microsoft Graph",
             "displayName": "Microsoft Graph",
             "searchKeyword": "Microsoft Graph",
-            "order": 70
+            "order": 70,
+            "visible": true
         },
         {
             "id": "Microsoft Graph connectors",
             "displayName": "Microsoft Graph connectors",
             "searchKeyword": "Microsoft Graph connectors",
-            "order": 75
+            "order": 75,
+            "visible": true
         },
         {
             "id": "Microsoft Graph Toolkit",
             "displayName": "Microsoft Graph Toolkit",
             "searchKeyword": "Microsoft Graph Toolkit",
-            "order": 80
+            "order": 80,
+            "visible": true
         },
         {
             "id": "DevProxy",
             "displayName": "Dev Proxy",
             "searchKeyword": "Dev Proxy",
-            "order": 85
+            "order": 85,
+            "visible": true
         },
         {
             "id": "OneDrive",
             "displayName": "OneDrive",
             "searchKeyword": "OneDrive",
-            "order": 90
+            "order": 90,
+            "visible": true
         },
         {
             "id": "Microsoft To Do",
             "displayName": "Microsoft To Do",
             "searchKeyword": "Microsoft To Do",
-            "order": 90
+            "order": 100,
+            "visible": true
         },
         {
             "id": "Teams Global Hack",
             "displayName": "Teams Global Hack",
             "searchKeyword": "Teams Global Hack",
-            "order": 100
+            "order": 110,
+            "visible": true
         }
     ]    
 }
