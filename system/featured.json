@@ -13,46 +13,64 @@
             "comment": "This is just a sample of a featured item"
         },
         {
-            "sampleId": "pnp-sp-dev-teams-sample-app-acs-calling",
-            "sampleLink": "https://github.com/pnp/teams-dev-samples/blob/main/samples/app-acs-calling/assets/sample.json",
-            "editedOn": "2022-06-16",
-            "comment": "Initial Teams featured app"
+            "sampleId": "officedev-copilot-for-m365-plugins-samples-msgext-northwind-inventory-ts",
+            "sampleLink": "https://github.com/OfficeDev/Copilot-for-M365-Plugins-Samples/blob/main/samples/msgext-northwind-inventory-ts/assets/sample.json",
+            "editedOn": "2023-11-21",
+            "comment": "Featured Teams samples post Ignite 2023"
         },
         {
-            "sampleId": "pnp-sp-dev-teams-sample-bot-proactive-messaging-node",
-            "sampleLink": "https://github.com/pnp/teams-dev-samples/blob/main/samples/bot-proactive-messaging/assets/sample.json",
-            "editedOn": "2022-06-16",
-            "comment": "Initial Teams featured app"
+            "sampleId": "officedev-copilot-for-m365-plugins-samples-msgext-doc-search-js",
+            "sampleLink": "https://github.com/OfficeDev/Copilot-for-M365-Plugins-Samples/blob/main/samples/msgext-doc-search-js/assets/sample.json",
+            "editedOn": "2023-11-21",
+            "comment": "Featured Teams samples post Ignite 2023"
         },
         {
-            "sampleId": "pnp-sp-dev-teams-sample-msgext-msg-forwarder",
-            "sampleLink": "https://github.com/pnp/teams-dev-samples/blob/main/samples/msgext-msg-forwarder/assets/sample.json",
-            "editedOn": "2022-06-16",
-            "comment": "Initial Teams featured app"
+            "sampleId": "officedev-copilot-for-m365-plugins-samples-msgext-multiparam-csharp",
+            "sampleLink": "https://github.com/OfficeDev/Copilot-for-M365-Plugins-Samples/blob/main/samples/msgext-multiparam-csharp/assets/sample.json",
+            "editedOn": "2023-11-21",
+            "comment": "Featured Teams samples post Ignite 2023"
         },
         {
-            "sampleId": "pnp-sp-dev-teams-sample-tab-meeting-record-name",
-            "sampleLink": "https://github.com/pnp/teams-dev-samples/blob/main/samples/tab-meeting-record-name/assets/sample.json",
-            "editedOn": "2022-06-16",
-            "comment": "Initial Teams featured app"
+            "sampleId": "pnp-graph-connector-powershell-markdown",
+            "sampleLink": "https://github.com/pnp/graph-connectors-samples/blob/main/samples/powershell-markdown/assets/sample.json",
+            "editedOn": "2023-11-21",
+            "comment": "Featured Graph samples post Ignite 2023"
         },
         {
-            "sampleId": "pnp-sp-dev-teams-sample-tab-meeting-stageview-basic",
-            "sampleLink": "https://github.com/pnp/teams-dev-samples/blob/main/samples/tab-meeting-stageview-vote-movie/assets/sample.json",
-            "editedOn": "2022-06-16",
-            "comment": "Initial Teams featured app"
+            "sampleId": "pnp-graph-connector-nodejs-typescript-food-catalog",
+            "sampleLink": "https://github.com/pnp/graph-connectors-samples/blob/main/samples/nodejs-typescript-food-catalog/assets/sample.json",
+            "editedOn": "2023-11-21",
+            "comment": "Featured Graph samples post Ignite 2023"
         },
         {
-            "sampleId": "pnp-sp-dev-teams-sample-app-consulting-bot",
-            "sampleLink": "https://github.com/pnp/teams-dev-samples/blob/main/samples/app-consulting-bot/assets/sample.json",
-            "editedOn": "2022-06-16",
-            "comment": "Initial Teams featured app"
+            "sampleId": "pnp-sp-dev-teams-sample-tab-office-offer-creation-csharp",
+            "sampleLink": "https://github.com/pnp/teams-dev-samples/blob/main/samples/tab-office-offer-creation-csharp/assets/sample.json",
+            "editedOn": "2023-11-21",
+            "comment": "Featured Teams samples post Ignite 2023"
         },
         {
-            "sampleId": "pnp-sp-dev-teams-sample-tab-one-productivity-hub",
-            "sampleLink": "https://github.com/pnp/teams-dev-samples/blob/main/samples/tab-one-productivity-hub/assets/sample.json",
-            "editedOn": "2022-06-16",
-            "comment": "Initial Teams featured app"
+            "sampleId": "pnp-sp-dev-teams-sample-app-teams-guest-user-overview",
+            "sampleLink": "https://github.com/pnp/teams-dev-samples/tree/main/samples/tab-teams-guest-user-overview",
+            "editedOn": "2023-11-21",
+            "comment": "Featured Teams samples post Ignite 2023"
+        },
+        {
+            "sampleId": "pnp-devproxy-http-cats",
+            "sampleLink": "https://github.com/pnp/proxy-samples/blob/main/samples/http-cats/assets/sample.json",
+            "editedOn": "2023-11-21",
+            "comment": "Featured Graph samples post Ignite 2023"
+        },
+        {
+            "sampleId": "pnp-sp-dev-teams-sample-tab-live-patient-review-liveshare",
+            "sampleLink": "https://github.com/pnp/teams-dev-samples/blob/main/samples/tab-live-patient-review-liveshare/assets/sample.json",
+            "editedOn": "2023-11-21",
+            "comment": "Featured Teams samples post Ignite 2023"
+        },
+        {
+            "sampleId": "pnp-sp-dev-teams-sample-bot-msteams-quiz-bot",
+            "sampleLink": "https://github.com/pnp/teams-dev-samples/blob/main/samples/bot-msteams-quiz-bot/assets/sample.json",
+            "editedOn": "2023-11-21",
+            "comment": "Featured Teams samples post Ignite 2023"
         }
     ]
 }
