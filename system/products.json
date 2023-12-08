@@ -114,18 +114,18 @@
             "visible": true
         },
         {
-            "id": "Teams Global Hack",
-            "displayName": "Teams Global Hack",
-            "searchKeyword": "Teams Global Hack",
+            "id": "Viva",
+            "displayName": "Viva",
+            "searchKeyword": "Viva",
             "order": 1700,
             "visible": true
         },
         {
-            "id": "Viva",
-            "displayName": "Viva",
-            "searchKeyword": "Viva",
-            "order": 1800,
-            "visible": true
+            "id": "Teams Global Hack",
+            "displayName": "Teams Global Hack",
+            "searchKeyword": "Teams Global Hack",
+            "order": 20000,
+            "visible": false
         }
     ]    
 }
