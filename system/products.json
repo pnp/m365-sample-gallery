@@ -1,23 +1,24 @@
 {
     "products" : [
         {
-            "id": "AzureAD",
-            "displayName": "Azure AD",
-            "searchKeyword": "AzureAD",
-            "order": 100,
-            "visible": true
-        },
-        {
             "id": "DevProxy",
             "displayName": "Dev Proxy",
             "searchKeyword": "Dev Proxy",
-            "order": 200,
+            "order": 100,
             "visible": true
         },
         {
             "id": "Microsoft 365 Copilot",
             "displayName": "Copilot for Microsoft 365",
             "searchKeyword": "Microsoft 365 Copilot",
+            "order": 200,
+            "visible": true
+        },
+        {
+            "id": "AzureAD",
+            "displayName": "Microsoft Entra ID",
+            "searchKeyword": "EntraID",
+            "searchKeywordAliases": "AzureAD,EntraID,Entra ID,Azure Entra ID,Microsoft Entra ID",
             "order": 300,
             "visible": true
         },
