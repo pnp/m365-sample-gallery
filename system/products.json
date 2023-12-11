@@ -1,16 +1,16 @@
 {
     "products" : [
         {
-            "id": "DevProxy",
-            "displayName": "Dev Proxy",
-            "searchKeyword": "Dev Proxy",
+            "id": "Microsoft 365 Copilot",
+            "displayName": "Copilot for Microsoft 365",
+            "searchKeyword": "Microsoft 365 Copilot",
             "order": 100,
             "visible": true
         },
         {
-            "id": "Microsoft 365 Copilot",
-            "displayName": "Copilot for Microsoft 365",
-            "searchKeyword": "Microsoft 365 Copilot",
+            "id": "DevProxy",
+            "displayName": "Dev Proxy",
+            "searchKeyword": "Dev Proxy",
             "order": 200,
             "visible": true
         },
