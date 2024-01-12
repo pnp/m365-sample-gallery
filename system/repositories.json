@@ -118,6 +118,11 @@
         {
             "name": "Copilot for Microsoft 365 plugins samples",
             "relativeUrl": "OfficeDev/Copilot-for-M365-Plugins-Samples"
+        },
+        {
+            "name": "Power Apps PCF controls",
+            "relativeUrl": "microsoft/PowerApps-Samples"
+            "baselinePath": "component-framework"
         }
     ]
 }
