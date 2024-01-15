@@ -1,4 +1,4 @@
-# m365-sample-gallery
+# Microsoft 365 Sample Gallery - System files
 
 Backend control and assets for the [Microsoft 365 Sample Gallery](https://aka.ms/community/samples).
 
