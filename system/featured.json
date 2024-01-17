@@ -55,10 +55,28 @@
             "comment": "Featured Teams samples post Ignite 2023"
         },
         {
-            "sampleId": "pnp-devproxy-http-cats",
-            "sampleLink": "https://github.com/pnp/proxy-samples/blob/main/samples/http-cats/assets/sample.json",
-            "editedOn": "2023-11-21",
-            "comment": "Featured Graph samples post Ignite 2023"
+            "sampleId": "pnp-devproxy-northwinddb",
+            "sampleLink": "https://github.com/pnp/proxy-samples/blob/main/samples/northwinddb/assets/sample.json",
+            "editedOn": "2024-01-16",
+            "comment": "Featured Dev Proxy sample"
+        },
+        {
+            "sampleId": "pnp-devproxy-microsoft-graph-docs-mocks",
+            "sampleLink": "https://github.com/pnp/proxy-samples/blob/main/samples/microsoft-graph-docs-mocks/assets/sample.json",
+            "editedOn": "2024-01-11",
+            "comment": "Featured Dev Proxy sample"
+        },
+        {
+            "sampleId": "pnp-devproxy-openai-throttling",
+            "sampleLink": "https://github.com/pnp/proxy-samples/blob/main/samples/openai-throttling/assets/sample.json",
+            "editedOn": "2024-01-17",
+            "comment": "Featured Dev Proxy sample"
+        },
+        {
+            "sampleId": "pnp-devproxy-spfx",
+            "sampleLink": "https://github.com/pnp/proxy-samples/blob/main/samples/spfx/assets/sample.json",
+            "editedOn": "2024-01-17",
+            "comment": "Featured Dev Proxy sample"
         },
         {
             "sampleId": "pnp-sp-dev-teams-sample-tab-live-patient-review-liveshare",
