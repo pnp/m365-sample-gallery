@@ -121,7 +121,7 @@
         },
         {
             "name": "Power Apps PCF controls",
-            "relativeUrl": "microsoft/PowerApps-Samples"
+            "relativeUrl": "microsoft/PowerApps-Samples",
             "baselinePath": "component-framework"
         }
     ]
