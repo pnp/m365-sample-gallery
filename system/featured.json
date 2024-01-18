@@ -39,13 +39,13 @@
         {
             "sampleId": "pnp-graph-connector-nodejs-typescript-food-catalog",
             "sampleLink": "https://github.com/pnp/graph-connectors-samples/blob/main/samples/nodejs-typescript-food-catalog/assets/sample.json",
-            "editedOn": "2023-11-21",
+            "editedOn": "2024-01-18",
             "comment": "Featured Graph samples post Ignite 2023"
         },
         {
             "sampleId": "pnp-graph-connector-nodejs-javascript-solutiongallery",
             "sampleLink": "https://github.com/pnp/graph-connectors-samples/blob/main/samples/nodejs-javascript-solutiongallery/assets/sample.json",
-            "editedOn": "2023-11-07",
+            "editedOn": "2024-01-18",
             "comment": "Featured Graph connector sample"
         },
         {
@@ -63,13 +63,13 @@
         {
             "sampleId": "pnp-devproxy-northwinddb",
             "sampleLink": "https://github.com/pnp/proxy-samples/blob/main/samples/northwinddb/assets/sample.json",
-            "editedOn": "2024-01-16",
+            "editedOn": "2024-01-17",
             "comment": "Featured Dev Proxy sample"
         },
         {
             "sampleId": "pnp-devproxy-microsoft-graph-docs-mocks",
             "sampleLink": "https://github.com/pnp/proxy-samples/blob/main/samples/microsoft-graph-docs-mocks/assets/sample.json",
-            "editedOn": "2024-01-11",
+            "editedOn": "2024-01-17",
             "comment": "Featured Dev Proxy sample"
         },
         {
