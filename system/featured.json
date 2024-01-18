@@ -43,6 +43,12 @@
             "comment": "Featured Graph samples post Ignite 2023"
         },
         {
+            "sampleId": "pnp-graph-connector-nodejs-javascript-solutiongallery",
+            "sampleLink": "https://github.com/pnp/graph-connectors-samples/blob/main/samples/nodejs-javascript-solutiongallery/assets/sample.json",
+            "editedOn": "2023-11-07",
+            "comment": "Featured Graph connector sample"
+        },
+        {
             "sampleId": "pnp-sp-dev-teams-sample-tab-office-offer-creation-csharp",
             "sampleLink": "https://github.com/pnp/teams-dev-samples/blob/main/samples/tab-office-offer-creation-csharp/assets/sample.json",
             "editedOn": "2023-11-21",
