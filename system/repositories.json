@@ -46,10 +46,6 @@
             "relativeUrl": "pnp/powerapps-samples"
         },
         {
-            "name": "Power Fx Samples",
-            "relativeUrl": "pnp/powerfx-samples"
-        },
-        {
             "name": "Power Automate Samples",
             "relativeUrl": "pnp/powerautomate-samples"
         },
