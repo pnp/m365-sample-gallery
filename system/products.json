@@ -31,6 +31,14 @@
             "visible": true
         },
         {
+            "id": "CopilotStudio",
+            "displayName": "Copilot Studio",
+            "searchKeyword": "CopilotStudio",
+            "searchKeywordAliases": "CopilotStudio,Copilot Studio",
+            "order": 350,
+            "visible": true
+        },        
+        {
             "id": "Microsoft Graph",
             "displayName": "Microsoft Graph",
             "searchKeyword": "Microsoft Graph",
@@ -114,6 +122,13 @@
             "order": 1500,
             "visible": true
         },
+        {
+            "id": "PowerPages",
+            "displayName": "Power Pages",
+            "searchKeyword": "Power Pages",
+            "order": 1550,
+            "visible": true
+        },        
         {
             "id": "SharePoint",
             "displayName": "SharePoint",
