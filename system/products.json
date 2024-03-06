@@ -15,6 +15,14 @@
             "visible": true
         },
         {
+            "id": "AIBuilder",
+            "displayName": "AI Builder",
+            "searchKeyword": "AIBuilder",
+            "searchKeywordAliases": "AIBuilder,AI Builder",
+            "order": 250,
+            "visible": true
+        },        
+        {
             "id": "AzureAD",
             "displayName": "Microsoft Entra ID",
             "searchKeyword": "EntraID",
