@@ -119,6 +119,10 @@
             "name": "Power Apps PCF controls",
             "relativeUrl": "microsoft/PowerApps-Samples",
             "baselinePath": "component-framework"
+        },
+        {
+            "name": "Viva Bot Powered ACEs",
+            "relativeUrl": "pnp/viva-dev-bot-powered-aces"
         }
     ]
 }
