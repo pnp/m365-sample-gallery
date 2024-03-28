@@ -149,6 +149,13 @@
             "searchKeyword": "Teams Global Hack",
             "order": 20000,
             "visible": false
+        },
+        {
+            "id": "powerplatform-prompts",
+            "displayName": "Power Platform Prompts",
+            "searchKeyword": "powerplatform-prompts",
+            "order": 30000,
+            "visible": false
         }
     ]    
 }
