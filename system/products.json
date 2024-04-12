@@ -191,6 +191,41 @@
             "searchKeyword": "power-pages-prompts",
             "order": 30005,
             "visible": false
-        }
+        },
+        {
+            "id": "power-platform-snippets",
+            "displayName": "Power Platform Snippets",
+            "searchKeyword": "power-platform-snippets",
+            "order": 30020,
+            "visible": false
+        },
+        {
+            "id": "copilot-studio-snippets",
+            "displayName": "Copilot Studio Snippets",
+            "searchKeyword": "copilot-studio-snippets",
+            "order": 30021,
+            "visible": false
+        },
+        {
+            "id": "power-apps-snippets",
+            "displayName": "Power Apps Snippets",
+            "searchKeyword": "power-apps-snippets",
+            "order": 30022,
+            "visible": false
+        },
+        {
+            "id": "pad-snippets",
+            "displayName": "Power Automate Desktop Snippets",
+            "searchKeyword": "pad-snippets",
+            "order": 30023,
+            "visible": false
+        },
+        {
+            "id": "power-pages-snippets",
+            "displayName": "Power Pages Snippets",
+            "searchKeyword": "power-pages-snippets",
+            "order": 30024,
+            "visible": false
+        }     
     ]    
 }
