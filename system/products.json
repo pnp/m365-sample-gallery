@@ -156,6 +156,41 @@
             "searchKeyword": "powerplatform-prompts",
             "order": 30000,
             "visible": false
+        },
+        {
+            "id": "ai-builder-prompts",
+            "displayName": "AI Builder Prompts",
+            "searchKeyword": "ai-builder-prompts",
+            "order": 30001,
+            "visible": false
+        },
+        {
+            "id": "copilot-studio-prompts",
+            "displayName": "Copilot Studio Prompts",
+            "searchKeyword": "copilot-studio-prompts",
+            "order": 30002,
+            "visible": false
+        }        
+        {
+            "id": "power-apps-prompts",
+            "displayName": "Power Apps Prompts",
+            "searchKeyword": "power-apps-prompts",
+            "order": 30003,
+            "visible": false
+        },
+        {
+            "id": "power-automate-prompts",
+            "displayName": "Power Automate Prompts",
+            "searchKeyword": "power-automate-prompts",
+            "order": 30004,
+            "visible": false
+        },
+        {
+            "id": "power-pages-prompts",
+            "displayName": "Power Pages Prompts",
+            "searchKeyword": "power-pages-prompts",
+            "order": 30005,
+            "visible": false
         }
     ]    
 }
