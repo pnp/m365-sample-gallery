@@ -92,6 +92,10 @@
             "relativeUrl": "pnp/powerplatform-prompts"
         },
         {
+            "name": "Power Platform Snippets",
+            "relativeUrl": "pnp/powerplatform-snippets"
+        },
+        {
             "name": "Microsoft 365 Developer Proxy samples",
             "relativeUrl": "pnp/proxy-samples"
         },
