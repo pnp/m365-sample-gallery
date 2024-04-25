@@ -127,6 +127,10 @@
         {
             "name": "Viva Bot Powered ACEs",
             "relativeUrl": "pnp/viva-dev-bot-powered-aces"
+        },
+        {
+            "name": "Copilot prompts",
+            "relativeUrl": "pnp/copilot-prompts"
         }
     ]
 }
