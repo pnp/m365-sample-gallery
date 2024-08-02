@@ -170,7 +170,7 @@
             "searchKeyword": "copilot-studio-prompts",
             "order": 30002,
             "visible": false
-        }        
+        },
         {
             "id": "power-apps-prompts",
             "displayName": "Power Apps Prompts",
