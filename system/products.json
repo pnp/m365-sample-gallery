@@ -193,9 +193,9 @@
             "visible": false
         },
         {
-            "id": "power-platform-snippets",
+            "id": "powerplatform-snippets",
             "displayName": "Power Platform Snippets",
-            "searchKeyword": "power-platform-snippets",
+            "searchKeyword": "powerplatform-snippets",
             "order": 30020,
             "visible": false
         },
