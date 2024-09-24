@@ -2,7 +2,7 @@
     "products" : [
         {
             "id": "Microsoft 365 Copilot",
-            "displayName": "Copilot for Microsoft 365",
+            "displayName": "Microsoft 365 Copilot",
             "searchKeyword": "Microsoft 365 Copilot",
             "order": 100,
             "visible": true
