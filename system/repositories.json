@@ -2,135 +2,231 @@
     "repositories" : [
         {
             "name": "SharePoint Code Samples",
-            "relativeUrl": "pnp/sp-dev-samples"
+            "relativeUrl": "pnp/sp-dev-samples",
+            "organization": "pnp",
+            "repository": "sp-dev-samples",
+            "tokenType": "App"
         },
         {
             "name": "SPFx Web Parts",
-            "relativeUrl": "pnp/sp-dev-fx-webparts"
+            "relativeUrl": "pnp/sp-dev-fx-webparts",
+            "organization": "pnp",
+            "repository": "sp-dev-fx-webparts",
+            "tokenType": "App"
         },
         {
             "name": "SPFx Web Parts",
             "relativeUrl": "pnp/sp-dev-fx-extensions",
-            "baselinePath": "samples"
+            "baselinePath": "samples",
+            "organization": "pnp",
+            "repository": "sp-dev-fx-extensions",
+            "tokenType": "App"
         },        
         {
             "name": "Power Fx Samples",
-            "relativeUrl": "pnp/powerfx-samples"
+            "relativeUrl": "pnp/powerfx-samples",
+            "organization": "pnp",
+            "repository": "powerfx-samples",
+            "tokenType": "App"
         },
         {
             "name": "Teams samples",
-            "relativeUrl": "pnp/teams-dev-samples"
+            "relativeUrl": "pnp/teams-dev-samples",
+            "organization": "pnp",
+            "repository": "teams-dev-samples",
+            "tokenType": "App"
         },
         {
             "name": "List Formatting Samples",
-            "relativeUrl": "pnp/List-Formatting"
+            "relativeUrl": "pnp/List-Formatting",
+            "organization": "pnp",
+            "repository": "List-Formatting",
+            "tokenType": "App"
         },
         {
             "name": "ACEs",
-            "relativeUrl": "pnp/sp-dev-fx-aces"
+            "relativeUrl": "pnp/sp-dev-fx-aces",
+            "organization": "pnp",
+            "repository": "sp-dev-fx-aces",
+            "tokenType": "App"
         },
         {
             "name": "Reference ACEs",
-            "relativeUrl": "pnp/spfx-reference-scenarios"
+            "relativeUrl": "pnp/spfx-reference-scenarios",
+            "organization": "pnp",
+            "repository": "spfx-reference-scenarios",
+            "tokenType": "App"
         },
         {
             "name": "Adaptive Card designs",
-            "relativeUrl": "pnp/AdaptiveCards-Templates"
+            "relativeUrl": "pnp/AdaptiveCards-Templates",
+            "organization": "pnp",
+            "repository": "AdaptiveCards-Templates",
+            "tokenType": "App"
         },
         {
             "name": "Script Samples",
-            "relativeUrl": "pnp/script-samples"
+            "relativeUrl": "pnp/script-samples",
+            "organization": "pnp",
+            "repository": "script-samples",
+            "tokenType": "App"
         },
         {
             "name": "Power Apps Samples",
-            "relativeUrl": "pnp/powerapps-samples"
+            "relativeUrl": "pnp/powerapps-samples",
+            "organization": "pnp",
+            "repository": "powerapps-samples",
+            "tokenType": "App"
         },
         {
             "name": "Power Automate Samples",
-            "relativeUrl": "pnp/powerautomate-samples"
+            "relativeUrl": "pnp/powerautomate-samples",
+            "organization": "pnp",
+            "repository": "powerautomate-samples",
+            "tokenType": "App"
         },
         {
             "name": "Microsoft Graph Toolkit Samples",
-            "relativeUrl": "pnp/mgt-samples"
+            "relativeUrl": "pnp/mgt-samples",
+            "organization": "pnp",
+            "repository": "mgt-samples",
+            "tokenType": "App"
         },
         {
             "name": "Microsoft Graph Samples",
-            "relativeUrl": "pnp/graph-samples"
+            "relativeUrl": "pnp/graph-samples",
+            "organization": "pnp",
+            "repository": "graph-samples",
+            "tokenType": "App"
         },
         {
             "name": "Office Add-ins code samples",
-            "relativeUrl": "OfficeDev/Office-Add-in-samples"
+            "relativeUrl": "OfficeDev/Office-Add-in-samples",
+            "organization": "OfficeDev",
+            "repository": "Office-Add-in-samples",
+            "tokenType": "App"
         },
         {
             "name": "OneDrive Samples",
-            "relativeUrl": "OneDrive/Samples"
+            "relativeUrl": "OneDrive/Samples",
+            "organization": "OneDrive",
+            "repository": "Samples",
+            "tokenType": "App"
         },
         {
             "name": "Microsoft Teams samples from engineering",
-            "relativeUrl": "OfficeDev/microsoft-teams-samples"
+            "relativeUrl": "OfficeDev/microsoft-teams-samples",
+            "organization": "OfficeDev",
+            "repository": "microsoft-teams-samples",
+            "tokenType": "App"
         }, 
         {
             "name": "CLI for Microsoft 365",
             "relativeUrl": "pnp/cli-microsoft365",
             "baselinePath": "docs/docs/sample-scripts",
-            "depth": 3
+            "depth": 3,
+            "organization": "pnp",
+            "repository": "cli-microsoft365",
+            "tokenType": "App"
         },
         {
             "name": "SharePoint Solutions",
-            "relativeUrl": "pnp/sp-dev-solutions"
+            "relativeUrl": "pnp/sp-dev-solutions",
+            "organization": "pnp",
+            "repository": "sp-dev-solutions",
+            "tokenType": "App"
         },
         {
             "name": "Teams Fx Samples",
-            "relativeUrl": "OfficeDev/TeamsFx-Samples"
+            "relativeUrl": "OfficeDev/TeamsFx-Samples",
+            "organization": "OfficeDev",
+            "repository": "TeamsFx-Samples",
+            "tokenType": "App"
         },
         {
             "name": "Power Platform Samples",
-            "relativeUrl": "pnp/powerplatform-samples"
+            "relativeUrl": "pnp/powerplatform-samples",
+            "organization": "pnp",
+            "repository": "powerplatform-samples",
+            "tokenType": "App"
         },
         {
             "name": "Power Platform Prompts",
-            "relativeUrl": "pnp/powerplatform-prompts"
+            "relativeUrl": "pnp/powerplatform-prompts",
+            "organization": "pnp",
+            "repository": "powerplatform-prompts",
+            "tokenType": "App"
         },
         {
             "name": "Power Platform Snippets",
-            "relativeUrl": "pnp/powerplatform-snippets"
+            "relativeUrl": "pnp/powerplatform-snippets",
+            "organization": "pnp",
+            "repository": "powerplatform-snippets",
+            "tokenType": "App"
         },
         {
             "name": "Microsoft 365 Developer Proxy samples",
-            "relativeUrl": "pnp/proxy-samples"
+            "relativeUrl": "pnp/proxy-samples",
+            "organization": "pnp",
+            "repository": "proxy-samples",
+            "tokenType": "App"
         },
         {
             "name": "Microsoft Graph community samples",
-            "relativeUrl": "pnp/graph-connectors-samples"
+            "relativeUrl": "pnp/graph-connectors-samples",
+            "organization": "pnp",
+            "repository": "graph-connectors-samples",
+            "tokenType": "App"
         },
         {
             "name": "Microsoft Graph connector sample 1",
-            "relativeUrl": "microsoftgraph/msgraph-sample-github-connector-dotnet"
+            "relativeUrl": "microsoftgraph/msgraph-sample-github-connector-dotnet",
+            "organization": "MicrosoftGraph",
+            "repository": "msgraph-sample-github-connector-dotnet",
+            "tokenType": "Personal"
         },
         {
             "name": "Microsoft Graph connector sample 2",
-            "relativeUrl": "microsoftgraph/msgraph-sample-github-connector-python"
+            "relativeUrl": "microsoftgraph/msgraph-sample-github-connector-python",
+            "organization": "MicrosoftGraph",
+            "repository": "msgraph-sample-github-connector-python",
+            "tokenType": "Personal"
         },
         {
             "name": "Microsoft Graph connector sample 3",
-            "relativeUrl": "microsoftgraph/msgraph-sample-github-connector-typescript"
+            "relativeUrl": "microsoftgraph/msgraph-sample-github-connector-typescript",
+            "organization": "MicrosoftGraph",
+            "repository": "msgraph-sample-github-connector-typescript",
+            "tokenType": "Personal"
         },
         {
             "name": "Copilot for Microsoft 365 plugins samples",
-            "relativeUrl": "OfficeDev/Copilot-for-M365-Plugins-Samples"
+            "relativeUrl": "OfficeDev/Copilot-for-M365-Plugins-Samples",
+            "organization": "OfficeDev",
+            "repository": "Copilot-for-M365-Plugins-Samples",
+            "tokenType": "App"
         },
         {
             "name": "Power Apps PCF controls",
             "relativeUrl": "microsoft/PowerApps-Samples",
-            "baselinePath": "component-framework"
+            "baselinePath": "component-framework",
+            "organization": "microsoft",
+            "repository": "PowerApps-Samples",
+            "tokenType": "Personal"
         },
         {
             "name": "Viva Bot Powered ACEs",
-            "relativeUrl": "pnp/viva-dev-bot-powered-aces"
+            "relativeUrl": "pnp/viva-dev-bot-powered-aces",
+            "organization": "pnp",
+            "repository": "viva-dev-bot-powered-aces",
+            "tokenType": "App"
         },
         {
             "name": "Copilot prompts",
-            "relativeUrl": "pnp/copilot-prompts"
+            "relativeUrl": "pnp/copilot-prompts",
+            "organization": "pnp",
+            "repository": "copilot-prompts",
+            "tokenType": "App"
         }
     ]
 }
