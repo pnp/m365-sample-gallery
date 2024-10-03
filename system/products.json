@@ -4,14 +4,14 @@
             "id": "Microsoft 365 Copilot",
             "displayName": "Microsoft 365 Copilot",
             "searchKeyword": "Microsoft 365 Copilot",
-            "order": 100,
+            "order": 375,
             "visible": true
         },
         {
             "id": "DevProxy",
             "displayName": "Dev Proxy",
             "searchKeyword": "Dev Proxy",
-            "order": 200,
+            "order": 360,
             "visible": true
         },
         {
