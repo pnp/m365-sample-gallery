@@ -227,6 +227,13 @@
             "organization": "pnp",
             "repository": "copilot-prompts",
             "tokenType": "App"
+        },
+        {
+            "name": "Copilot pro-dev samples",
+            "relativeUrl": "pnp/copilot-pro-dev-samples",
+            "organization": "pnp",
+            "repository": "copilot-pro-dev-samples",
+            "tokenType": "App"
         }
     ]
 }
