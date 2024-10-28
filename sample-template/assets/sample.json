@@ -50,6 +50,10 @@
       {
         "key": "GRAPH-TOOLKIT-CONTROLS",
         "value":"agenda,tasks"
+      },
+      {
+        "key": "CODE-TYPE",
+        "value":"pro-code,no-code/low-code"
       }
     ],
     "thumbnails": [
