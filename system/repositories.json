@@ -234,6 +234,13 @@
             "organization": "pnp",
             "repository": "copilot-pro-dev-samples",
             "tokenType": "App"
+        },
+        {
+            "name": "SharePoint Embedded samples",
+            "relativeUrl": "microsoft/SharePoint-Embedded-Samples",
+            "organization": "microsoft",
+            "repository": "SharePoint-Embedded-Samples",
+            "tokenType": "Personal"
         }
     ]
 }
