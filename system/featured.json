@@ -67,6 +67,12 @@
             "comment": "Featured Dev Proxy sample"
         },
         {
+            "sampleId": "pnp-devproxy-sharepoint-api-minimal-permissions",
+            "sampleLink": "https://github.com/pnp/proxy-samples/blob/main/samples/sharepoint-api-minimal-permissions/assets/sample.json",
+            "editedOn": "2025-04-07",
+            "comment": "Featured Dev Proxy sample"
+        },
+        {
             "sampleId": "pnp-devproxy-microsoft-graph-docs-mocks",
             "sampleLink": "https://github.com/pnp/proxy-samples/blob/main/samples/microsoft-graph-docs-mocks/assets/sample.json",
             "editedOn": "2024-01-17",
