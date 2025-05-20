@@ -1,6 +1,13 @@
 {
     "products" : [
         {
+            "id": "Microsoft365AgentToolkit",
+            "displayName": "Microsoft 365 Agent Toolkit",
+            "searchKeyword": "Microsoft 365 Agent Toolkit",
+            "order": 370,
+            "visible": true
+        },  
+        {
             "id": "Microsoft 365 Copilot",
             "displayName": "Microsoft 365 Copilot",
             "searchKeyword": "Microsoft 365 Copilot",
@@ -52,7 +59,7 @@
             "searchKeywordAliases": "Graph connectors",
             "order": 325,
             "visible": true
-        },
+        },      
         {
             "id": "Microsoft Graph Toolkit",
             "displayName": "Microsoft Graph Toolkit",
