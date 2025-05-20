@@ -172,10 +172,10 @@
             "tokenType": "App"
         },
         {
-            "name": "Microsoft Graph community samples",
-            "relativeUrl": "pnp/graph-connectors-samples",
+            "name": "Copilot connectors community samples",
+            "relativeUrl": "pnp/copilot-connectors-samples",
             "organization": "pnp",
-            "repository": "graph-connectors-samples",
+            "repository": "copilot-connectors-samples",
             "tokenType": "App"
         },
         {
