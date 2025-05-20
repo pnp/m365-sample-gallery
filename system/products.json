@@ -27,7 +27,7 @@
             "displayName": "Microsoft Entra ID",
             "searchKeyword": "EntraID",
             "searchKeywordAliases": "AzureAD,EntraID,Entra ID,Azure Entra ID,Microsoft Entra ID",
-            "order": 300,
+            "order": 385,
             "visible": true
         },
         {
@@ -46,10 +46,11 @@
             "visible": true
         },
         {
-            "id": "Microsoft Graph connectors",
-            "displayName": "Microsoft Graph connectors",
-            "searchKeyword": "Microsoft Graph connectors",
-            "order": 500,
+            "id": "Copilot connectors",
+            "displayName": "Copilot connectors",
+            "searchKeyword": "Copilot connectors",
+            "searchKeywordAliases": "Graph connectors",
+            "order": 325,
             "visible": true
         },
         {
