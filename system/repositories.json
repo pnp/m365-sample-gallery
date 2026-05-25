@@ -241,6 +241,13 @@
             "organization": "microsoft",
             "repository": "SharePoint-Embedded-Samples",
             "tokenType": "Personal"
-        }
+        },
+        {
+            "name": "SharePoint AI Skills",
+            "relativeUrl": "pnp/sharepoint-skills",
+            "organization": "pnp",
+            "repository": "sharepoint-skills",
+            "tokenType": "App"
+        },        
     ]
 }
