@@ -215,13 +215,6 @@
             "tokenType": "Personal"
         },
         {
-            "name": "Viva Bot Powered ACEs",
-            "relativeUrl": "pnp/viva-dev-bot-powered-aces",
-            "organization": "pnp",
-            "repository": "viva-dev-bot-powered-aces",
-            "tokenType": "App"
-        },
-        {
             "name": "Copilot prompts",
             "relativeUrl": "pnp/copilot-prompts",
             "organization": "pnp",
