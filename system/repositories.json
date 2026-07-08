@@ -234,7 +234,14 @@
             "organization": "pnp",
             "repository": "sharepoint-skills",
             "tokenType": "App"
-        },        
+        },
+        {
+            "name": "Copilot Apps",
+            "relativeUrl": "pnp/spfx-copilot-apps",
+            "organization": "pnp",
+            "repository": "spfx-copilot-apps",
+            "tokenType": "App"
+        },                
         {
             "name": "SharePoint Embedded samples",
             "relativeUrl": "microsoft/SharePoint-Embedded-Samples",
